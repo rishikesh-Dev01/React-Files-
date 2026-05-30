@@ -1,0 +1,25 @@
+ 
+
+ .Card {
+  background-color: palevioletred;
+  color: white;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+ }
+
+.navbar {
+    display: flex;
+
+}
+
+ .inner {
+    height: 3rem;
+    width: 30rem;
+    display: flex;
+    justify-content: space-evenly;
+    left: 3rem;
+ }
+
+ /* user name = 20250355471
+  password - TEQ#8mgSAUA */
