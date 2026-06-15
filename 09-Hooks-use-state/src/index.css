@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding:  0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+/* button {
+  background-color: rgb(156, 148, 148);
+  color: aliceblue;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+} */
+
+/* h1 {
+  background-color: darkgrey;
+  width: fit-content;
+  padding: 10px 70px;
+  margin: 20px;
+  font-size: 4rem;
+  border-radius: 5px;
+  color: aliceblue;
+} */
